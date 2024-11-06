@@ -2,6 +2,6 @@ function sayHello() {
     console.log("Hello World");
 }
 
-function sayNone(){
+function sayNone() {
     return None;
 }
