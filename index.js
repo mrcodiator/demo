@@ -5,3 +5,7 @@ function sayHello() {
 function sayNone() {
     return None;
 }
+
+function add(a, b) {
+    return a + b;
+}
