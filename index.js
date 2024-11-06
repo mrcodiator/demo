@@ -1,7 +1,6 @@
-function sayHello() {
-    console.log("Hello World");
-}
+
 
 function newFunc() {
+    console.log("GST");
     return true;
 }
